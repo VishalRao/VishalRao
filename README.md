@@ -4,7 +4,7 @@
 # Credentials:  Licenses, Certifications, and Badges
 ﻿
 ﻿<!--START_SECTION:badges-->
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0b46c6c9-749e-4e32-9de3-3fb919fd4db0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ 
 <!--END_SECTION:badges-->
 
 

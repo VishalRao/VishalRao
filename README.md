@@ -1,5 +1,12 @@
 ### Hi there 👋, my name is Vishal Rao and I am a multidisciplinary engineer based in the United States.
 
+
+# Credentials:  Licenses, Certifications, and Badges
+﻿
+﻿<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
 <!--
 **VishalRao/VishalRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,8 @@
 # Credentials:  Licenses, Certifications, and Badges
 ﻿
 ﻿<!--START_SECTION:badges-->
- 
+<a href="https://www.credly.com/badges/0b46c6c9-749e-4e32-9de3-3fb919fd4db0" title="American Mensa Life Member"><img src="https://images.credly.com/size/80x80/images/87013628-1f95-4a41-9d4c-0475dfba3f8e/American_Mensa_badge3.png" alt="American Mensa Life Member" width="80" height="80"></a>
+<a href="https://www.credly.com/users/vishalrao/badges" title="Oracle Certified Associate, Java SE 8 Programmer"><img src="https://images.credly.com/size/80x80/images/6acfd7d6-d11c-4c5b-a377-e133af28fce3/OCAJSE8.png" alt="Oracle Certified Associate, Java SE 8 Programmer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 

@@ -1,0 +1,33 @@
+name: Update Credly Badges
+
+on:
+  schedule:
+    # Runs every 1st day of the month at midnight UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+    # Allows manual triggering from the GitHub Actions tab
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to the repository
+      contents: write
+      pull-requests: write # This line is often needed for PR-based actions
+
+    steps:
+      - name: Checkout repository
+        # Action to check out your repository's code
+        uses: actions/checkout@v4
+
+      - name: Run the badge action
+        # Action to fetch badges from Credly and update the README
+        uses: guibranco/github-badges-action@latest
+        with:
+          # Your Credly username
+          credly-user: vishalrao
+          # Optional: Use a specific commit message
+          commit-message: "docs(badges): update credly badges"
+          # Optional: Create a new branch for the update instead of committing directly
+          # create-new-branch: true
+          # new-branch-name: "badge-update-branch"

@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vishal Rao and I am a multidisciplinary engineer based in the United States.
+### Hi there 👋, my name is Vishal Rao and I am a software engineer based in the United States.  I am a United States citizen authorized to work _without_ any visa sponsorship.
 
 
 # Credentials:  Licenses, Certifications, and Badges

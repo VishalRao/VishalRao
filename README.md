@@ -11,9 +11,8 @@
 <a href="https://www.credly.com/badges/f32bcf2c-fc0f-4f03-ae33-a4868bab77d1" title="[CLE-10-01] CLE – C Certified Entry-Level Programmer"><img src="https://images.credly.com/size/80x80/images/0ec4932d-a5d4-4879-9f3e-462eed8d8768/image.png" alt="[CLE-10-01] CLE – C Certified Entry-Level Programmer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/06b8c614-fb28-4f23-8155-addb06a5e9d1" title="Linux Essentials Certificate"><img src="https://images.credly.com/size/80x80/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" alt="Linux Essentials Certificate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d55469af-1249-4737-b742-657a21eadcd0" title="[CPE-20-01] CPE – C++ Certified Entry-Level Programmer"><img src="https://images.credly.com/size/80x80/images/51720c50-39e4-41f5-abe5-c4ae12b8e26c/image.png" alt="[CPE-20-01] CPE – C++ Certified Entry-Level Programmer" width="80" height="80"></a>
-<div style="background-color: white;">
-<a href="https://www.credly.com/badges/d4f1c472-88dd-4871-b396-600251ba5862" title="Cisco Certified Support Technician Networking (CCST Networking)"><img src="https://images.credly.com/size/80x80/images/c60f9007-64bb-42ed-869b-e1f05d6d77f2/image.png" alt="Cisco Certified Support Technician Networking (CCST Networking)" width="80" height="80" class="white-bg-img"></a>
-</div>
+<a href="https://www.credly.com/badges/d4f1c472-88dd-4871-b396-600251ba5862" title="Cisco Certified Support Technician Networking (CCST Networking)"><img src="https://images.credly.com/size/80x80/images/c60f9007-64bb-42ed-869b-e1f05d6d77f2/image.png" alt="Cisco Certified Support Technician Networking (CCST Networking)" width="80" height="80" style="background-color: white;"></a>
+
 <!--END_SECTION:badges-->
 
 <!--

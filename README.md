@@ -21,8 +21,11 @@
 [![AWS Educate Getting Started with Compute - Training Badge](https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob)](https://www.credly.com/badges/2253c794-4b71-4a22-bf19-8aee0a0632ab)
 [![AWS Educate Getting Started with Networking - Training Badge](https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob)](https://www.credly.com/badges/674cf25f-f41b-447a-bb27-f62e4ac8e959)
 [![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/e01c573f-3946-4802-985e-2beb165d576d)
-[![Explore Identity Foundations](https://images.credly.com/size/80x80/images/aa05c061-11e0-4d90-ad71-e21e31837d17/blob)](https://www.credly.com/badges/ca5f2b6a-ee71-41cf-b961-1d5237f13841)
+[![Explore Identity Foundations](https://images.credly.com/size/80x80/images/aa05c061-11e0-4d90-ad71-e21e31837d17/blob)](https://www.credly.com/badges/a0445636-5fb8-48d3-a11d-8058121055c3)
 [![ISC2 Candidate](https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/e40640e4-1589-4405-818b-b46a1bf0cd2c)
+[![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/857da10a-2975-4439-96aa-ebe53a916535)
+[![Oracle Certified Professional, Java SE 8 Programmer](https://images.credly.com/size/80x80/images/eac36d96-56e9-4ad7-a0d3-1e3f53c547d0/OCPJSE8_cached_image_20251230-34-utfiwt.png)](https://www.credly.com/users/vishalrao/badges)
+[![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/80x80/images/6acfd7d6-d11c-4c5b-a377-e133af28fce3/OCAJSE8.png)](https://www.credly.com/users/vishalrao/badges)
 <!--END_SECTION:badges-->
 
 <!--

@@ -5,9 +5,9 @@
 ﻿
 
 ﻿<!--START_SECTION:badges-->
-[![American Mensa Life Member](https://images.credly.com/size/80x80/images/87013628-1f95-4a41-9d4c-0475dfba3f8e/American_Mensa_badge3.png)](https://www.credly.com/badges/0b46c6c9-749e-4e32-9de3-3fb919fd4db0)
-[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/a05dbd02-e1a1-43a1-9f9c-2270fbc2b88e)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b1760ddc-7317-45d0-af43-946dfeaad320)
+[![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/a05dbd02-e1a1-43a1-9f9c-2270fbc2b88e)
+[![American Mensa Life Member](https://images.credly.com/size/80x80/images/87013628-1f95-4a41-9d4c-0475dfba3f8e/American_Mensa_badge3.png)](https://www.credly.com/badges/0b46c6c9-749e-4e32-9de3-3fb919fd4db0)
 [![[CLA-11-03] CLA – C Certified Associate Programmer](https://images.credly.com/size/80x80/images/6ed1c792-d23d-405b-9207-b0dda54ab317/image.png)](https://www.credly.com/badges/cda2ffa6-48ad-4709-91fe-d29ba027cb6a)
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2859c37a-015b-40a6-b570-4bdd7e849b05/image.png)](https://www.credly.com/badges/cfd526b7-0f39-41cb-a750-337104ce94de)
 [![Linux Essentials Certificate](https://images.credly.com/size/80x80/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob)](https://www.credly.com/badges/06b8c614-fb28-4f23-8155-addb06a5e9d1)
@@ -17,13 +17,14 @@
 [![Cisco Certified Support Technician Networking (CCST Networking)](https://images.credly.com/size/80x80/images/c60f9007-64bb-42ed-869b-e1f05d6d77f2/image.png)](https://www.credly.com/badges/d4f1c472-88dd-4871-b396-600251ba5862)
 [![CompTIA Network+ ce Certification](https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/d2248d54-553c-48f1-88a6-f412abb8fb56)
 [![CompTIA Tech+ Certification](https://images.credly.com/size/80x80/images/d358c04b-d081-424f-8221-d5d63f76c144/blob)](https://www.credly.com/badges/1aa38f2c-d617-465a-a60d-fa31ca36d998)
+[![Explore Identity Foundations](https://images.credly.com/size/80x80/images/aa05c061-11e0-4d90-ad71-e21e31837d17/blob)](https://www.credly.com/badges/a0445636-5fb8-48d3-a11d-8058121055c3)
+[![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/857da10a-2975-4439-96aa-ebe53a916535)
+[![AWS Knowledge: Networking Core - Training Badge](https://images.credly.com/size/80x80/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob)](https://www.credly.com/badges/a34d1c74-4701-49a4-b2f6-577327ad1407)
 [![AWS Educate Getting Started with Storage - Training Badge](https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob)](https://www.credly.com/badges/376d1455-7d18-424c-a834-bad3f6fe8b9b)
 [![AWS Educate Getting Started with Compute - Training Badge](https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob)](https://www.credly.com/badges/2253c794-4b71-4a22-bf19-8aee0a0632ab)
 [![AWS Educate Getting Started with Networking - Training Badge](https://images.credly.com/size/80x80/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob)](https://www.credly.com/badges/674cf25f-f41b-447a-bb27-f62e4ac8e959)
 [![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/e01c573f-3946-4802-985e-2beb165d576d)
-[![Explore Identity Foundations](https://images.credly.com/size/80x80/images/aa05c061-11e0-4d90-ad71-e21e31837d17/blob)](https://www.credly.com/badges/a0445636-5fb8-48d3-a11d-8058121055c3)
 [![ISC2 Candidate](https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/e40640e4-1589-4405-818b-b46a1bf0cd2c)
-[![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/857da10a-2975-4439-96aa-ebe53a916535)
 [![Oracle Certified Professional, Java SE 8 Programmer](https://images.credly.com/size/80x80/images/eac36d96-56e9-4ad7-a0d3-1e3f53c547d0/OCPJSE8_cached_image_20251230-34-utfiwt.png)](https://www.credly.com/users/vishalrao/badges)
 [![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/80x80/images/6acfd7d6-d11c-4c5b-a377-e133af28fce3/OCAJSE8.png)](https://www.credly.com/users/vishalrao/badges)
 <!--END_SECTION:badges-->

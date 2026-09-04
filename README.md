@@ -19,6 +19,7 @@
 [![CompTIA Tech+ Certification](https://images.credly.com/size/80x80/images/d358c04b-d081-424f-8221-d5d63f76c144/blob)](https://www.credly.com/badges/1aa38f2c-d617-465a-a60d-fa31ca36d998)
 [![Explore Identity Foundations](https://images.credly.com/size/80x80/images/aa05c061-11e0-4d90-ad71-e21e31837d17/blob)](https://www.credly.com/badges/a0445636-5fb8-48d3-a11d-8058121055c3)
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/857da10a-2975-4439-96aa-ebe53a916535)
+[![AWS Knowledge: AI Basics - Training Badge](https://images.credly.com/size/80x80/images/37da5686-c0d8-4cfc-9814-8c709935ecc0/blob)](https://www.credly.com/badges/559477d2-521a-4a62-a63e-415f5b6edf24)
 [![AWS Knowledge: Networking Core - Training Badge](https://images.credly.com/size/80x80/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob)](https://www.credly.com/badges/a34d1c74-4701-49a4-b2f6-577327ad1407)
 [![AWS Educate Getting Started with Storage - Training Badge](https://images.credly.com/size/80x80/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob)](https://www.credly.com/badges/376d1455-7d18-424c-a834-bad3f6fe8b9b)
 [![AWS Educate Getting Started with Compute - Training Badge](https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob)](https://www.credly.com/badges/2253c794-4b71-4a22-bf19-8aee0a0632ab)

@@ -5,7 +5,8 @@
 ﻿
 
 ﻿<!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/b1760ddc-7317-45d0-af43-946dfeaad320)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/076e31c5-2362-4e72-be38-115af965d12b)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c5131174-45aa-48f1-afb4-16390ef34de4)
 [![AWS Certified AI Practitioner](https://images.credly.com/size/80x80/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/badges/a05dbd02-e1a1-43a1-9f9c-2270fbc2b88e)
 [![American Mensa Life Member](https://images.credly.com/size/80x80/images/87013628-1f95-4a41-9d4c-0475dfba3f8e/American_Mensa_badge3.png)](https://www.credly.com/badges/0b46c6c9-749e-4e32-9de3-3fb919fd4db0)
 [![[CLA-11-03] CLA – C Certified Associate Programmer](https://images.credly.com/size/80x80/images/6ed1c792-d23d-405b-9207-b0dda54ab317/image.png)](https://www.credly.com/badges/cda2ffa6-48ad-4709-91fe-d29ba027cb6a)
@@ -20,6 +21,7 @@
 [![Explore Identity Foundations](https://images.credly.com/size/80x80/images/ef5d0cc3-f4d2-469c-be5c-ab786dce09f2/blob)](https://www.credly.com/badges/a0445636-5fb8-48d3-a11d-8058121055c3)
 [![AWS Incident Response Demonstrated](https://images.credly.com/size/80x80/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob)](https://www.credly.com/badges/0dc7babb-4b2d-4679-90bb-d722c8ebc27d)
 [![AWS Application Networking Demonstrated](https://images.credly.com/size/80x80/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob)](https://www.credly.com/badges/857da10a-2975-4439-96aa-ebe53a916535)
+[![AWS Agentic AI Demonstrated](https://images.credly.com/size/80x80/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob)](https://www.credly.com/badges/fb9f175a-3028-4bed-9cdc-79574ab8db78)
 [![AWS Knowledge: Cloud Essentials - Training Badge](https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob)](https://www.credly.com/badges/33fd3495-3dec-427f-b3df-eae4657d580a)
 [![AWS Knowledge: AI Basics - Training Badge](https://images.credly.com/size/80x80/images/37da5686-c0d8-4cfc-9814-8c709935ecc0/blob)](https://www.credly.com/badges/559477d2-521a-4a62-a63e-415f5b6edf24)
 [![AWS Knowledge: Networking Core - Training Badge](https://images.credly.com/size/80x80/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob)](https://www.credly.com/badges/a34d1c74-4701-49a4-b2f6-577327ad1407)

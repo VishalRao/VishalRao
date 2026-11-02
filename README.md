@@ -5,6 +5,7 @@
 ﻿
 
 ﻿<!--START_SECTION:badges-->
+ <!-- INACTIVE - badge size issue
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/076e31c5-2362-4e72-be38-115af965d12b)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/80x80/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/b57f1271-df25-42c1-a0e7-499bd0d6550e)
 [![AWS Certified CloudOps Engineer – Associate](https://images.credly.com/size/80x80/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob)](https://www.credly.com/badges/6198f479-f041-4686-a6f2-0c04ea513ed3)
@@ -38,7 +39,13 @@
 [![ISC2 Candidate](https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/e40640e4-1589-4405-818b-b46a1bf0cd2c)
 [![Oracle Certified Professional, Java SE 8 Programmer](https://images.credly.com/size/80x80/images/eac36d96-56e9-4ad7-a0d3-1e3f53c547d0/OCPJSE8_cached_image_20251230-34-utfiwt.png)](https://www.credly.com/users/vishalrao/badges)
 [![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/80x80/images/6acfd7d6-d11c-4c5b-a377-e133af28fce3/OCAJSE8.png)](https://www.credly.com/users/vishalrao/badges)
+-->
 <!--END_SECTION:badges-->
+
+
+<!-- CREDLY-BADGES:START -->
+
+<!-- CREDLY-BADGES:END -->
 
 <!--
 **VishalRao/VishalRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

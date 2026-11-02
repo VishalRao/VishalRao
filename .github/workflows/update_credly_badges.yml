@@ -18,6 +18,7 @@ jobs:
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
           credly-username: "vishalrao"
+          cert-keyworkds: "Certified, Certificate, Certification, Member"
 
       - name: Commit changes
         run: |

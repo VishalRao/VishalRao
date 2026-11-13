@@ -19,6 +19,7 @@ jobs:
         with:
           credly-username: "vishalrao"
           cert-keywords: "Certified, Certificate, Certification, Member, Demonstrated"
+          include-other: true
 
       - name: Commit changes
         run: |
